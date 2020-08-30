@@ -1,0 +1,19 @@
+{
+  "name": "regov",
+  "version": "1.0.0",
+  "description": "Regov Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sai Krishna",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.740.0",
+    "http": "0.0.1-security",
+    "md5": "^2.3.0",
+    "mysql": "^2.18.1",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2"
+  }
+}
